@@ -1,6 +1,8 @@
-![Screenshot_1630927556](https://user-images.githubusercontent.com/50176908/132214727-f0f083e2-ac1e-426d-9078-f2487bf3d099.png)
-![Screenshot_1630927577](https://user-images.githubusercontent.com/50176908/132214745-0b85443c-c316-4a4f-94ad-88cf2c0b29fa.png)
+
 # catanddogpredictor
+APP Screenshot.
+![Screenshot_1630927577](https://user-images.githubusercontent.com/50176908/132216422-e6fa8450-8c85-4998-8168-b99d0bdd5e10.png)
+![Screenshot_1630927556](https://user-images.githubusercontent.com/50176908/132216429-f2d98b7f-c59b-468d-8436-9f97983add40.png)
 
 A new Flutter project.
 
